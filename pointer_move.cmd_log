@@ -1,0 +1,4 @@
+vhdtdtfi -lib work pointer_move.vhd -prj AWP_GAME2 -o pointer_move.spl -module pointer_move -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e pointer_move.spl C:/Users/lab/Desktop/Beza/AWP_GAME2/pointer_move.sym 
+vhdtdtfi -lib work pointer_move.vhd -prj AWP_GAME2 -o pointer_move.spl -module pointer_move -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e pointer_move.spl C:/Users/lab/Desktop/Beza/AWP_GAME2/pointer_move.sym 

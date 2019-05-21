@@ -1,0 +1,68 @@
+vhdtdtfi -lib work VGA_800x600_72Hz.vhd -prj AWP_GAME2 -o VGA_800x600_72Hz.spl -module VGA_800x600_72Hz -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e VGA_800x600_72Hz.spl C:/Users/lab/Desktop/Beza/AWP_GAME2/VGA_800x600_72Hz.sym 
+vhdtdtfi -lib work VGA_800x600_72Hz.vhd -prj AWP_GAME2 -o VGA_800x600_72Hz.spl -module VGA_800x600_72Hz -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e VGA_800x600_72Hz.spl C:/Users/lab/Desktop/Beza/AWP_GAME2/VGA_800x600_72Hz.sym 
+vhdtdtfi -lib work VGA_800x600_72Hz.vhd -prj AWP_GAME2 -o VGA_800x600_72Hz.spl -module VGA_800x600_72Hz -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e VGA_800x600_72Hz.spl C:/Users/lab/Desktop/Beza/AWP_GAME2/VGA_800x600_72Hz.sym 
+vhdtdtfi -lib work VGA_800x600_72Hz.vhd -prj AWP_GAME2 -o VGA_800x600_72Hz.spl -module VGA_800x600_72Hz -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e VGA_800x600_72Hz.spl C:/Users/lab/Desktop/Beza/AWP_GAME2/VGA_800x600_72Hz.sym 
+vhdtdtfi -lib work VGA_800x600_72Hz.vhd -prj AWP_GAME2 -o VGA_800x600_72Hz.spl -module VGA_800x600_72Hz -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e VGA_800x600_72Hz.spl C:/Users/lab/Desktop/Beza/AWP_GAME2/VGA_800x600_72Hz.sym 
+vhdtdtfi -lib work VGA_800x600_72Hz.vhd -prj AWP_GAME2 -o VGA_800x600_72Hz.spl -module VGA_800x600_72Hz -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e VGA_800x600_72Hz.spl C:/Users/lab/Desktop/Beza/AWP_GAME2/VGA_800x600_72Hz.sym 
+vhdtdtfi -lib work VGA_800x600_72Hz.vhd -prj AWP_GAME2 -o VGA_800x600_72Hz.spl -module VGA_800x600_72Hz -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e VGA_800x600_72Hz.spl C:/Users/lab/Desktop/Beza/AWP_GAME2/VGA_800x600_72Hz.sym 
+vhdtdtfi -lib work VGA_800x600_72Hz.vhd -prj AWP_GAME2 -o VGA_800x600_72Hz.spl -module VGA_800x600_72Hz -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e VGA_800x600_72Hz.spl C:/Users/lab/Desktop/AWP_GAME2/VGA_800x600_72Hz.sym 
+vhdtdtfi -lib work VGA_800x600_72Hz.vhd -prj AWP_GAME2 -o VGA_800x600_72Hz.spl -module VGA_800x600_72Hz -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e VGA_800x600_72Hz.spl C:/Users/lab/Desktop/Beza/AWP_GAME_FINAL/AWP_GAME2/VGA_800x600_72Hz.sym 
+vhdtdtfi -lib work VGA_800x600_72Hz.vhd -prj AWP_GAME2 -o VGA_800x600_72Hz.spl -module VGA_800x600_72Hz -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e VGA_800x600_72Hz.spl C:/Users/lab/Desktop/Beza/AWP_GAME_FINAL/AWP_GAME2/VGA_800x600_72Hz.sym 
+vhdtdtfi -lib work VGA_800x600_72Hz.vhd -prj AWP_GAME2 -o VGA_800x600_72Hz.spl -module VGA_800x600_72Hz -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e VGA_800x600_72Hz.spl C:/Users/lab/Desktop/Beza/AWP_GAME_FINAL/AWP_GAME2/VGA_800x600_72Hz.sym 
+vhdtdtfi -lib work VGA_800x600_72Hz.vhd -prj AWP_GAME2 -o VGA_800x600_72Hz.spl -module VGA_800x600_72Hz -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e VGA_800x600_72Hz.spl C:/Users/lab/Desktop/Beza/AWP_GAME_FINAL/AWP_GAME2/VGA_800x600_72Hz.sym 
+vhdtdtfi -lib work VGA_800x600_72Hz.vhd -prj AWP_GAME2 -o VGA_800x600_72Hz.spl -module VGA_800x600_72Hz -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e VGA_800x600_72Hz.spl C:/Users/lab/Desktop/Beza/AWP_GAME_FINAL/AWP_GAME2/VGA_800x600_72Hz.sym 
+vhdtdtfi -lib work VGA_800x600_72Hz.vhd -prj AWP_GAME2 -o VGA_800x600_72Hz.spl -module VGA_800x600_72Hz -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e VGA_800x600_72Hz.spl C:/Users/lab/Desktop/Beza/AWP_GAME_FINAL/AWP_GAME2/VGA_800x600_72Hz.sym 
+vhdtdtfi -lib work VGA_800x600_72Hz.vhd -prj AWP_GAME2 -o VGA_800x600_72Hz.spl -module VGA_800x600_72Hz -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e VGA_800x600_72Hz.spl C:/Users/lab/Desktop/Beza/AWP_GAME_FINAL/AWP_GAME2/VGA_800x600_72Hz.sym 
+vhdtdtfi -lib work VGA_800x600_72Hz.vhd -prj AWP_GAME2 -o VGA_800x600_72Hz.spl -module VGA_800x600_72Hz -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e VGA_800x600_72Hz.spl C:/Users/lab/Desktop/Beza/AWP_GAME_FINAL/AWP_GAME2/VGA_800x600_72Hz.sym 
+vhdtdtfi -lib work VGA_800x600_72Hz.vhd -prj AWP_GAME2 -o VGA_800x600_72Hz.spl -module VGA_800x600_72Hz -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e VGA_800x600_72Hz.spl C:/Users/lab/Desktop/Beza/AWP_GAME_FINAL/AWP_GAME2/VGA_800x600_72Hz.sym 
+vhdtdtfi -lib work VGA_800x600_72Hz.vhd -prj AWP_GAME2 -o VGA_800x600_72Hz.spl -module VGA_800x600_72Hz -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e VGA_800x600_72Hz.spl C:/Users/lab/Desktop/Beza/AWP_GAME_FINAL/AWP_GAME2/VGA_800x600_72Hz.sym 
+vhdtdtfi -lib work VGA_800x600_72Hz.vhd -prj AWP_GAME2 -o VGA_800x600_72Hz.spl -module VGA_800x600_72Hz -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e VGA_800x600_72Hz.spl C:/Users/lab/Desktop/Beza/AWP_GAME_FINAL/AWP_GAME2/VGA_800x600_72Hz.sym 
+vhdtdtfi -lib work VGA_800x600_72Hz.vhd -prj AWP_GAME2 -o VGA_800x600_72Hz.spl -module VGA_800x600_72Hz -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e VGA_800x600_72Hz.spl C:/Users/lab/Desktop/Beza/AWP_GAME_FINAL/AWP_GAME2/VGA_800x600_72Hz.sym 
+vhdtdtfi -lib work VGA_800x600_72Hz.vhd -prj AWP_GAME2 -o VGA_800x600_72Hz.spl -module VGA_800x600_72Hz -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e VGA_800x600_72Hz.spl C:/Users/lab/Desktop/Beza/AWP_GAME_FINAL/AWP_GAME2/VGA_800x600_72Hz.sym 
+vhdtdtfi -lib work VGA_800x600_72Hz.vhd -prj AWP_GAME2 -o VGA_800x600_72Hz.spl -module VGA_800x600_72Hz -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e VGA_800x600_72Hz.spl C:/Users/lab/Desktop/Beza/AWP_GAME_FINAL/AWP_GAME2/VGA_800x600_72Hz.sym 
+vhdtdtfi -lib work VGA_800x600_72Hz.vhd -prj AWP_GAME2 -o VGA_800x600_72Hz.spl -module VGA_800x600_72Hz -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e VGA_800x600_72Hz.spl C:/Users/lab/Desktop/Beza/AWP_GAME_FINAL/AWP_GAME2/VGA_800x600_72Hz.sym 
+vhdtdtfi -lib work VGA_800x600_72Hz.vhd -prj AWP_GAME2 -o VGA_800x600_72Hz.spl -module VGA_800x600_72Hz -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e VGA_800x600_72Hz.spl C:/Users/lab/Desktop/Beza/AWP_GAME_FINAL/AWP_GAME2/VGA_800x600_72Hz.sym 
+vhdtdtfi -lib work VGA_800x600_72Hz.vhd -prj AWP_GAME2 -o VGA_800x600_72Hz.spl -module VGA_800x600_72Hz -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e VGA_800x600_72Hz.spl C:/Users/lab/Desktop/Beza/AWP_GAME_FINAL/AWP_GAME2/VGA_800x600_72Hz.sym 
+vhdtdtfi -lib work VGA_800x600_72Hz.vhd -prj AWP_GAME2 -o VGA_800x600_72Hz.spl -module VGA_800x600_72Hz -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e VGA_800x600_72Hz.spl C:/Users/lab/Desktop/Beza/AWP_GAME_FINAL/AWP_GAME2/VGA_800x600_72Hz.sym 
+vhdtdtfi -lib work VGA_800x600_72Hz.vhd -prj AWP_GAME2 -o VGA_800x600_72Hz.spl -module VGA_800x600_72Hz -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e VGA_800x600_72Hz.spl C:/Users/lab/Desktop/Beza/AWP_GAME_FINAL/AWP_GAME2/VGA_800x600_72Hz.sym 
+vhdtdtfi -lib work VGA_800x600_72Hz.vhd -prj AWP_GAME2 -o VGA_800x600_72Hz.spl -module VGA_800x600_72Hz -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e VGA_800x600_72Hz.spl C:/Users/lab/Desktop/Beza/AWP_GAME_FINAL/AWP_GAME2/VGA_800x600_72Hz.sym 
+vhdtdtfi -lib work VGA_800x600_72Hz.vhd -prj AWP_GAME2 -o VGA_800x600_72Hz.spl -module VGA_800x600_72Hz -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e VGA_800x600_72Hz.spl C:/Users/lab/Desktop/Beza/AWP_GAME_FINAL/AWP_GAME2/VGA_800x600_72Hz.sym 
+vhdtdtfi -lib work VGA_800x600_72Hz.vhd -prj AWP_GAME2 -o VGA_800x600_72Hz.spl -module VGA_800x600_72Hz -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e VGA_800x600_72Hz.spl C:/Users/lab/Desktop/Beza/AWP_GAME_FINAL/AWP_GAME2/VGA_800x600_72Hz.sym 
+vhdtdtfi -lib work VGA_800x600_72Hz.vhd -prj AWP_GAME2 -o VGA_800x600_72Hz.spl -module VGA_800x600_72Hz -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e VGA_800x600_72Hz.spl C:/Users/lab/Desktop/Beza/AWP_GAME_FINAL/AWP_GAME2/VGA_800x600_72Hz.sym 
+vhdtdtfi -lib work VGA_800x600_72Hz.vhd -prj AWP_GAME2 -o VGA_800x600_72Hz.spl -module VGA_800x600_72Hz -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e VGA_800x600_72Hz.spl C:/Users/lab/Desktop/Beza/AWP_GAME_FINAL/AWP_GAME2/VGA_800x600_72Hz.sym 
+vhdtdtfi -lib work VGA_800x600_72Hz.vhd -prj AWP_GAME2 -o VGA_800x600_72Hz.spl -module VGA_800x600_72Hz -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e VGA_800x600_72Hz.spl C:/Users/lab/Desktop/Beza/AWP_GAME_FINAL/AWP_GAME2/VGA_800x600_72Hz.sym 
+vhdtdtfi -lib work VGA_800x600_72Hz.vhd -prj AWP_GAME2 -o VGA_800x600_72Hz.spl -module VGA_800x600_72Hz -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e VGA_800x600_72Hz.spl C:/Users/lab/Desktop/Beza/AWP_GAME_FINAL/AWP_GAME2/VGA_800x600_72Hz.sym 

@@ -1,0 +1,3 @@
+vhdl work "VGA_800x600_72Hz.vhd"
+vhdl work "pointer_move.vhd"
+vhdl work "schematic.vhf"

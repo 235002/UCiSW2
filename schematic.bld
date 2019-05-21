@@ -1,0 +1,48 @@
+Release 14.7 ngdbuild P.20131013 (nt)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+Command Line: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt\unwrapped\ngdbuild.exe -intstyle
+ise -dd _ngo -nt timestamp -uc GenIO.ucf -uc LCD.ucf -p xc3s500e-fg320-4
+schematic.ngc schematic.ngd
+
+Reading NGO file
+"C:/Users/lab/Desktop/Beza/AWP_GAME_FINAL/AWP_GAME2/schematic.ngc" ...
+Loading design module
+"C:\Users\lab\Desktop\Beza\AWP_GAME_FINAL\AWP_GAME2/PS2_Mouse.ngc"...
+Loading design module
+"C:\Users\lab\Desktop\Beza\AWP_GAME_FINAL\AWP_GAME2/LCD1x64.ngc"...
+Gathering constraint information from source properties...
+Done.
+
+Annotating constraints to design from ucf file "GenIO.ucf" ...
+Annotating constraints to design from ucf file "LCD.ucf" ...
+Resolving constraint associations...
+Checking Constraint Associations...
+INFO:ConstraintSystem - The Period constraint <PERIOD = 20.0ns HIGH 50%;>
+   [GenIO.ucf(2)], is specified using the Net Period method which is not
+   recommended. Please use the Timespec PERIOD method.
+
+Done...
+
+Checking expanded design ...
+WARNING:NgdBuild:452 - logical net 'N76' has no driver
+WARNING:NgdBuild:452 - logical net 'N77' has no driver
+
+Partition Implementation Status
+-------------------------------
+
+  No Partitions were found in this design.
+
+-------------------------------
+
+NGDBUILD Design Results Summary:
+  Number of errors:     0
+  Number of warnings:   2
+
+Total memory usage is 123832 kilobytes
+
+Writing NGD file "schematic.ngd" ...
+Total REAL time to NGDBUILD completion:  3 sec
+Total CPU time to NGDBUILD completion:   3 sec
+
+Writing NGDBUILD log file "schematic.bld"...

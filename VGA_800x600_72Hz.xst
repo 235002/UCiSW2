@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/lab/Desktop/Beza/AWP_GAME_FINAL/AWP_GAME2/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/lab/Desktop/Beza/AWP_GAME_FINAL/AWP_GAME2/xst"
+elaborate
+-ifn VGA_800x600_72Hz.prj
+-ifmt mixed

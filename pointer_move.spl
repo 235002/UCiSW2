@@ -1,0 +1,12 @@
+[Inputs]
+clk50
+DataRdy
+=B1_Status[7:0]=
+=B2_X[7:0]=
+=B3_Y[7:0]=
+[Outputs]
+slowing
+click
+=pos_x[10:0]=
+=pos_y[10:0]=
+[BiDir]

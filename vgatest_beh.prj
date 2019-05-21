@@ -1,0 +1,2 @@
+vhdl work "VGA_800x600_72Hz.vhd"
+vhdl work "vgatest.vhd"

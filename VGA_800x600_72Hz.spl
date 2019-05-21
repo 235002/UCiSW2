@@ -1,0 +1,17 @@
+[Inputs]
+clk50
+reset
+slowing
+click
+DataRdy
+=pos_x[10:0]=
+=pos_y[10:0]=
+[Outputs]
+h_sync
+v_sync
+red
+green
+blue
+=Line[63:0]=
+=blank[15:0]=
+[BiDir]

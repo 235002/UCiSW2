@@ -1,0 +1,2 @@
+vhdl work "pointer_move.vhd"
+vhdl work "pointer_move_test.vhd"
